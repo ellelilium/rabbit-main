@@ -18,10 +18,11 @@ git clone git@github.com:ellelilium/rabbit-main
 **3. Install Dependencies**
 ```bash
 
+cypress ➡ npm i cypress
+
 cypress-cucumber-preprocessor ➡ npm i cypress-cucumber-preprocessor
 
 faker ➡ npm i faker
-
 
 ```
 
