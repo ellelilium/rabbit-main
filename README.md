@@ -4,7 +4,7 @@
 
 **1.Main Repositories**
 
-git clone git@github.com:ellelilium/rabbit-main
+github.com:ellelilium/rabbit-main
 
 
 **2. Clone Git Repository**
